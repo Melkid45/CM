@@ -4353,8 +4353,6 @@ body {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    -webkit-box-align: center;
-    -ms-flex-align: center;
     align-items: center;
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
@@ -4363,26 +4361,9 @@ body {
 
 .maininfo__body-vid {
     width: 570px;
-    height: 436px;
-    background: url(../images/dist/main__cardvid.png) center no-repeat;
-    background-size: cover;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-align: center;
-    -ms-flex-align: center;
-    align-items: center;
-    -webkit-box-pack: center;
-    -ms-flex-pack: center;
-    justify-content: center
+    height: 324px;
 }
 
-.maininfo__body-vid button {
-    background: url(../images/dist/play.png) center no-repeat;
-    width: 44px;
-    height: 52px;
-    background-size: cover
-}
 
 .maininfo__body-text {
     max-width: 570px;
@@ -9901,8 +9882,6 @@ a {
         display: -webkit-box;
         display: -ms-flexbox;
         display: flex;
-        -webkit-box-align: center;
-        -ms-flex-align: center;
         align-items: center;
         -webkit-box-pack: justify;
         -ms-flex-pack: justify;
@@ -9911,26 +9890,9 @@ a {
 
     .maininfo__body-vid {
         width: 570rem;
-        height: 436rem;
-        background: url(../images/dist/main__cardvid.png) center no-repeat;
-        background-size: cover;
-        display: -webkit-box;
-        display: -ms-flexbox;
-        display: flex;
-        -webkit-box-align: center;
-        -ms-flex-align: center;
-        align-items: center;
-        -webkit-box-pack: center;
-        -ms-flex-pack: center;
-        justify-content: center
+        height: 324rem;
     }
 
-    .maininfo__body-vid button {
-        background: url(../images/dist/play.png) center no-repeat;
-        width: 44rem;
-        height: 52rem;
-        background-size: cover
-    }
 
     .maininfo__body-text {
         max-width: 570rem;
@@ -15035,26 +14997,9 @@ a {
         -ms-flex-order: 1;
         order: 1;
         width: 320rem;
-        height: 245rem;
-        background: url(../images/dist/main__cardvid.png) center no-repeat;
-        background-size: cover;
-        display: -webkit-box;
-        display: -ms-flexbox;
-        display: flex;
-        -webkit-box-align: center;
-        -ms-flex-align: center;
-        align-items: center;
-        -webkit-box-pack: center;
-        -ms-flex-pack: center;
-        justify-content: center
+        height: 181rem;
     }
 
-    .maininfo__body-vid button {
-        background: url(../images/dist/play.png) center no-repeat;
-        width: 35rem;
-        height: 35rem;
-        background-size: 100% 100%
-    }
 
     .maininfo__body-text {
         max-width: 300rem;
@@ -16063,7 +16008,8 @@ a {
     }
 
     .diff .slide__body {
-        padding-top: 52rem
+        padding-top: 52rem;
+        padding-bottom: 231rem;
     }
 
     .spare3 {
