@@ -1,5 +1,5 @@
 <?php
-$to = "melkidwork@gmail.com";
+$to = "office@skladcar.ru";
 $tema = "Отправка данных";
 $message = "Ваше имя: ".$_POST['name']."<br>";
 $message .= "Вопрос: ".$_POST['que']."<br>";
