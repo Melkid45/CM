@@ -5572,7 +5572,7 @@ a {
     width: 355px
 }
 
-@media(max-width: 1440px)and (min-width: 640px) {
+@media(max-width: 1920px)and (min-width: 640px) {
     html {
         font-size: .0694444444vw
     }
@@ -16233,7 +16233,7 @@ a {
 
 @media(min-width: 1920px)and (max-width: 2560px) {
     html {
-        font-size: calc(100vw / 1920)
+        font-size: calc(100vw / 1440)
     }
 
     body {
